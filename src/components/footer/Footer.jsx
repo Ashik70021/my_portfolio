@@ -31,7 +31,7 @@ const Footer = () => {
                             <a href="#contact" className="text-sm text-gray-400 hover:text-indigo-400 transition-colors">
                                 Contact
                             </a>
-                            <a href="https://drive.google.com/file/d/1gg1taJMqEUGgD7pP7QDOLW35rOI_OLhR/view?usp=sharing" target="_blank" rel="noreferrer" className="text-sm text-gray-400 hover:text-indigo-400 transition-colors">
+                            <a href="https://drive.google.com/file/d/1lTSj1gN3EQ2pMydDfKHvslZPUrIlsuMn/view?usp=sharing" target="_blank" rel="noreferrer" className="text-sm text-gray-400 hover:text-indigo-400 transition-colors">
                                 Resume
                             </a>
                         </div>

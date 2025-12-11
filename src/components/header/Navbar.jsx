@@ -20,7 +20,7 @@ const Navbar = () => {
             Contact
           </a>
           <a 
-            href="https://drive.google.com/file/d/1gg1taJMqEUGgD7pP7QDOLW35rOI_OLhR/view?usp=sharing"
+            href="https://drive.google.com/file/d/1lTSj1gN3EQ2pMydDfKHvslZPUrIlsuMn/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-lg transition-all font-medium"
@@ -49,7 +49,7 @@ const Navbar = () => {
             <a href="#contact" className="text-gray-300 hover:text-indigo-400 py-2">
               Contact
             </a>
-            <a href="https://drive.google.com/file/d/1gg1taJMqEUGgD7pP7QDOLW35rOI_OLhR/view?usp=sharing" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-indigo-400 py-2">
+            <a href="https://drive.google.com/file/d/1lTSj1gN3EQ2pMydDfKHvslZPUrIlsuMn/view?usp=sharing" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-indigo-400 py-2">
               Resume
             </a>
           </div>
