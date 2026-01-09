@@ -125,14 +125,16 @@ const Home = () => {
               Hi, I&apos;m Md Ashikur Rahman Sajib
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold mt-3 text-gray-300">
-              Full-Stack Web Developer
+              Software Engineer
             </h2>
             <p className="mt-6 text-gray-400 text-lg leading-relaxed max-w-xl">
-              I am a determined Full-Stack Developer who enjoys creating attractive
-              and user-friendly web applications. I have strong skills in HTML, CSS,
-              Tailwind CSS, JavaScript, PHP, and React. I know Node.js,
-              Express.js, MySQL, and MongoDB. I am good at understanding client needs
-              and turning their ideas into working solutions.
+              I am a motivated Software Engineer with a strong foundation in 
+              web technologies and backend development. I enjoy building reliable, 
+              efficient, and scalable software solutions. I have solid experience with HTML, 
+              CSS, JavaScript, React, Node.js, Express.js, and MongoDB. 
+              I am skilled at analyzing requirements, writing clean and maintainable code, 
+              and collaborating with teams to deliver practical solutions that meet user and 
+              business needs.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-4">
