@@ -479,7 +479,7 @@ const Home = () => {
           </div>
 
           {/* Freelancing Experience */}
-          <div className="relative pl-8">
+          {/* <div className="relative pl-8">
             <div className="absolute -left-2 top-0 w-4 h-4 bg-purple-500 rounded-full ring-4 ring-gray-900"></div>
             
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm p-6 rounded-xl border border-gray-700 hover:border-purple-500 transition-all">
@@ -511,7 +511,7 @@ const Home = () => {
                 <span className="text-xs px-3 py-1 bg-gray-800 text-gray-300 rounded-full border border-gray-700">Client Management</span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
