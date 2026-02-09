@@ -20,7 +20,7 @@ const Navbar = () => {
             Contact
           </a>
           <a 
-            href="https://drive.google.com/file/d/1lTSj1gN3EQ2pMydDfKHvslZPUrIlsuMn/view?usp=sharing"
+            href="https://drive.google.com/file/d/1SR_ezHqU8MLm--HVsRvPDis1TotCqd7e/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-lg transition-all font-medium"
